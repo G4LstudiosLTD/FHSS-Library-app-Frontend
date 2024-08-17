@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Home",
+      "image": "/icons/dashboard.svg",
+      "active": "/icons/dashboard-active.svg",
+      "path": "/teacher/"
+    },
+    {
+      "name": "Courses",
+      "image": "/icons/teacher-subject.svg",
+      "active": "/icons/teacher-subject-active.svg",
+      "path": "/teacher/subjects"
+    },
+    {
+      "name": "Messages",
+      "image": "/icons/message.svg",
+      "active": "/icons/message.svg",
+      "path": "/teacher/messages"
+    },
+    {
+      "name": "Settings",
+      "image": "/icons/settings.svg",
+      "active": "/icons/settings.svg",
+      "path": "/teacher/settings"
+    }
+  ]
+  
